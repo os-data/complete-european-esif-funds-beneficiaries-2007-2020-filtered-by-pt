@@ -12,6 +12,7 @@
     "start": "2000-01-01",
     "stop": "2020-12-31"
   },
+  "countryCode": "PT",
   "hash": "9763c9ac476a3a8a6976182ddf5ab899",
   "model": {
     "dimensions": {
